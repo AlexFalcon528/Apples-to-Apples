@@ -8,9 +8,10 @@ namespace A2AInput
 {
     public static class Input
     {
-        public static int ReadInteger(string prompt, int min, int max, int x = 0)
+        public static int ReadInteger(string prompt, int min, int max, int x = 0, int y = 0)
         {
             Console.CursorLeft = x;
+            if(Console.GetCursorPosition().Top < y) {Console.CursorTop = y;}
             int result = 0;
             bool isComplete = false;
             //Show the prompt
@@ -42,9 +43,10 @@ namespace A2AInput
             //Return integer
             return result;
         }
-        public static void ReadString(string prompt, ref string value, int x = 0)
+        public static void ReadString(string prompt, ref string value, int x = 0, int y = 0)
         {
             Console.CursorLeft = x;
+            if (Console.GetCursorPosition().Top < y) { Console.CursorTop = y; }
             bool isComplete = false;
             string input;
             //Show the prompt
@@ -81,7 +83,7 @@ namespace A2AInput
                 Console.WriteLine(i+1 + ": " + options[i] + "\n");
             }
             //Get the user's selection
-            selection = ReadInteger(prompt, 1, options.Length, x);
+            selection = ReadInteger(prompt, 1, options.Length, x, y);
         }
     }
 }
