@@ -1,0 +1,15 @@
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\bin\Debug\net6.0\Apples-to-Apples.exe
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\bin\Debug\net6.0\Apples-to-Apples.deps.json
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\bin\Debug\net6.0\Apples-to-Apples.runtimeconfig.json
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\bin\Debug\net6.0\Apples-to-Apples.dll
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\bin\Debug\net6.0\Apples-to-Apples.pdb
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.csproj.AssemblyReference.cache
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.AssemblyInfoInputs.cache
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.AssemblyInfo.cs
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.csproj.CoreCompileInputs.cache
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.dll
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\refint\Apples-to-Apples.dll
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.pdb
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\Apples-to-Apples.genruntimeconfig.cache
+C:\Users\farme\source\repos\Apples-to-Apples\Apples-to-Apples\Apples-to-Apples\obj\Debug\net6.0\ref\Apples-to-Apples.dll

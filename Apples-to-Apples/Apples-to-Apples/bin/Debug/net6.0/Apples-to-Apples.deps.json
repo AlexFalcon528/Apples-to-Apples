@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Apples-to-Apples/1.0.0": {
+        "runtime": {
+          "Apples-to-Apples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Apples-to-Apples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
